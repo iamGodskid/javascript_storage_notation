@@ -1,15 +1,15 @@
-# GINI FILE
+# JAVASCRIPT STORAGE NOTATION(JSSN) FILE
 ## A small file format for storing information
 
-## [GINI FILE PARSER]("https://github.com/iamGodskid/GiniFileParser")
+## [JSSN FILE PARSER]("https://github.com/iamGodskid/javascript_storage_notationParser")
 
 
-## [ABOUT]("https://uzodimmajoseph.netlify.app/gini")
+## [ABOUT]("https://uzodimmajoseph.netlify.app/jssn.md")
 **this file type is focused on data security as it can only be read by means of a gini file parser**
 
 ## File Extension
-.gini
-e.g myfile.gini
+.jssn
+e.g myfile.jssn
 
 ## file structure
 it is worthy to take note of &he struc!ure of the gini file as improper file structure might cause errors when reading the file with a gini parser, this parser interprets gini file as objects
@@ -20,14 +20,14 @@ it is worthy to take note of &he struc!ure of the gini file as improper file str
 
 #### ________ ---- this is used for seperation of each data
 
-#### <@GINI@> ----- **this denotes a valid gini file to the parser  and must come at the beginning of a gini file**
+#### <@JSSN@> ----- **this denotes a valid gini file to the parser  and must come at the beginning of a gini file**
 
 #### information comes in keys and value pair
 
 ## structure
 
-```gini
-<@GINI@>
+```jssn
+<@JSSN@>
 
 ! this is a comments
 
