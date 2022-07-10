@@ -1,7 +1,7 @@
 # JAVASCRIPT STORAGE NOTATION(JSSN) FILE
 ## A small file format for storing information
 
-## [JSSN FILE PARSER]("https://github.com/iamGodskid/javascript_storage_notationParser")
+## [LEARN HOW JSSN FILE PARSER WORKS FOR PARSING JSSN FILES](https://github.com/iamGodskid/javascript_storage_notationParser)
 
 
 ## [ABOUT]("https://uzodimmajoseph.netlify.app/jssn.md")
